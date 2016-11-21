@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Minutes"
-categories: jekyll update
----
-Minutes baby
-date:   2016-03-07 01:36:48

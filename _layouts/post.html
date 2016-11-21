@@ -4,12 +4,15 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-      <h1 class="post-title">{% if page.title %} {{ page.title}} {% else %} Minutes {% endif %}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h1>
+      <p> {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+          - Board of Directors Meeting Minutes
+      </p>
+    </h1>
   </header>
 
   <article class="post-content">
-    <p>Thompson Highlands Homeowners Association Minutes of Board of Directors Meeting.</p>
+    </p>
     {{ content }}
     <p>Respectfuly submitted,</p>
     <p></p>

@@ -2,14 +2,12 @@
 title: Thompson Highland Homeowners Association
 email: board@thha.org
 description: > # this means to ignore newlines until "baseurl:"
-  Thompson Highland Homeowners Association
-  12101-12299 NW Thompson Rd
-  Portland, OR 97229
-  45.548306, -122.803044
+  Thompson Highland Homeowners Association<br/>
+  PMB #824<br/>
+  515 NW Saltzman Road<br/>
+  Portland, OR 97229<br/>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thhaorg.github.io" # the base hostname & protocol for your site
-twitter_username: thhanotyet
-github_username:  thhaorg
 
 # Build settings
 markdown: kramdown
