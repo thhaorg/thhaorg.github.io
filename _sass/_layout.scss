@@ -3,11 +3,11 @@
  */
 .site-header {
     background-image: url('/images/THHA-MonSM2.jpg');
-    background-repeat: repeat-y; /* for vertical repeat */
-    background-repeat: repeat-x; /* for horizontal repeat */
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color;
-    min-height: 56px;
+    min-height: 100px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -15,10 +15,9 @@
 
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    line-height: 30px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+    float: right;
 
     &,
     &:visited {
@@ -27,8 +26,8 @@
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    float: left;
+    line-height: 28px;
 
     .menu-icon {
         display: none;
