@@ -2,8 +2,11 @@
  * Site header
  */
 .site-header {
+    background-image: url('/images/THHA-MonSM2.jpg');
+    background-repeat: repeat-y; /* for vertical repeat */
+    background-repeat: repeat-x; /* for horizontal repeat */
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color;
+    border-bottom: 1px solid $grey-colorlight;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon

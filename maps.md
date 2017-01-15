@@ -5,5 +5,5 @@ permalink: /maps/
 ---
 # Maps
 
-![Common Area](http://thhaorg.github.io/maps//CommonArea.jpg)
+![Common Area](/maps//CommonArea.jpg)
 
