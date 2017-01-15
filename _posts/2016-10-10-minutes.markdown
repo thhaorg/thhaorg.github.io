@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-#Board Members Present
+# Board Members Present
 * Powell Quiring
 * Lori Quiring
 * Pat Goodell
@@ -9,16 +9,16 @@ layout: post
 * Cary Williams
 * Paul Cummings
 
-#Treasurer’s Report
+# Treasurer’s Report
 $15,964 for Sept 30
 
-#Old Business
+# Old Business
 Powell took a pictures.  Need to post to the web site.
 
-#New Business
+# New Business
 Sara is resigning from the board as of January 1, 2017.
 
-#THHA Picnic
+# THHA Picnic
 * Cut back on the amount of the meat.
 * Cut back on tempeh (1 lb was plenty, we ordered 10)
 * Cut out sides completely
@@ -26,8 +26,8 @@ Sara is resigning from the board as of January 1, 2017.
 * 5 gallons of beer was the correct amount
 * chair/table correct
 
-#Meeting Adjourned
+# Meeting Adjourned
 About 8:30 pm.
 
-#Next Meeting Scheduled
+# Next Meeting Scheduled
 Monday, 11/07

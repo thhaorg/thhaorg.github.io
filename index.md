@@ -2,6 +2,9 @@
 layout: default
 title: Home
 ---
+## Useful links:
+* [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
+* [Minutes](/minutes/)
 ## Postal address
 THHA\\
 PMB #824\\
