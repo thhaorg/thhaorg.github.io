@@ -28,3 +28,4 @@ after: www 192.30.252.153
 
     cd thha/thhaorg.github.io
     docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll
+    open http://localhost:4000

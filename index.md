@@ -17,8 +17,8 @@ title: Home
 Preferred (all board Members): board@thha.org, put "board" in the subject like: 'board approve my roof'
 
 * board@thha.org subject: Board request to remove a tree
-* Pat Goodell (President) rickpat68@hotmail.com
+* **[ President ]** Pat Goodell (President) rickpat68@hotmail.com
 * Mike Mitlehner mike.m.home@outlook.com
 * Carey Williams clwilli0719@mac.com
-* Paul Cummings p_cummings@comcast.net
-* Powell Quiring powellquiring@gmail.com
+* **[ Treasurer ]** Paul Cummings p_cummings@comcast.net
+* **[ Secretary ]** Powell Quiring powellquiring@gmail.com
