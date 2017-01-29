@@ -1,11 +1,9 @@
 ---
 layout: post
+members: [powell, lori, pat, mike]
 ---
 # Board Members Present
-* Powell Quiring
-* Lori Quiring
-* Pat Goodell
-* Mike Mitlehner
+{% include members.md %}
 
 # Treasurer’s Report
 $17,579.03

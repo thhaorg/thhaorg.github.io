@@ -1,0 +1,32 @@
+---
+layout: post
+members: [lori, pat, cary, paul]
+---
+# Board Members Present
+{% include members.md %}
+
+# Treasurer’s Report
+Balance $21,331.44
+
+Pat will be reimbursed for entrance landscaping work in the amount of $1,855.00
+
+# Old Business
+* Landscaping - did not remove bushes along wall, pulled up all plants except the bigger ones, consensus from the board is that it looks good.  Thanks to Marjorie Wilson and Pat Goodell for overseeing it.
+* Lighting - Cary wants to find supply for electricity, in order to convert to LED we must bypass balles.  We may decide on regular bulbs.  He will do more to find supply box.  
+* Pat will write stronger letter to landlord of 12370 NW Hibbard regarding work to be done.
+* Powell and Pat have talked to one of the residents regarding overhanging trees on the wall, but not the other.  
+
+# New Business
+As of this date there has been no response to memos from neighbors to WA County.
+* It was suggested to post more advertising at the entrance.  Pat will contact the fire department, maybe getting a truck out.  Cary will  with look into Busters Barbeque and Paul will inquire with Home Plate Sliders.
+* Board members will start compiling a list of teens willing to do work in the neighborhood, babysitting, yard work, etc.  Website might state, contact a board member for list.  
+* Ask neighbors to share names of companies who've done work on their homes that they'd recommend.  These should be posted on the web site.  
+
+# THHA Picnic
+* Suggested themes for picnic:  Carnival (which incorporates the olympic theme) or a patriotic theme because it's 9/11, right after the olympics and before the election.  
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday August 1

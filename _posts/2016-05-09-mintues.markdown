@@ -1,0 +1,35 @@
+---
+layout: post
+members: [powell, lori, pat, sara, alan, mike, cary]
+---
+# Board Members Present
+{% include members.md %}
+
+# Treasurer’s Report
+
+* Balance 21,331.44
+* All dues for 2016 have been paid.
+
+# Old Business
+
+* Approved $2200 for Marjorie to direct work for entry gardening improvement.
+
+
+# New Business
+
+* Evaluating options for ongoing maintenance.  
+* Powell will talk to Dick and Chris to clear off the wall along Thompson.
+* Request for approval fillable pdf on line - Powell needs to add to the web site.
+* Carey will check for LED replacement for the front lights.
+* Any wall repair will be delayed until the area 93 is completed.
+* Pat will send out spring newsletter.
+
+# THHA Picnic
+
+September 11: Save the date.  Cul De Sac: East Loy Ct.  
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday, ?,?

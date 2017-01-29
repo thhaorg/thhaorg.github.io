@@ -1,12 +1,9 @@
 ---
 layout: post
+members: [powell, lori, pat, cary, paul]
 ---
 # Board Members Present
-* Powell Quiring
-* Lori Quiring
-* Pat Goodell
-* Cary Williams
-* Paul Cummings
+{% include members.md %}
 
 # New Business
 

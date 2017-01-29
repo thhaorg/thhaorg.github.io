@@ -1,14 +1,9 @@
 ---
 layout: post
+members: [powell, lori, pat, sara, mike, cary, paul]
 ---
 # Board Members Present
-* Powell Quiring
-* Lori Quiring
-* Pat Goodell
-* Mike Mitlehner
-* Cary Williams
-* Paul Cummings
-* Sara Ark
+{% include members.md %}
 
 # Treasurer’s Report
 * $15,988 balance on November 7

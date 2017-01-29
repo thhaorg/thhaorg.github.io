@@ -8,6 +8,16 @@ description: > # this means to ignore newlines until "baseurl:"
   Portland, OR 97229<br/>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thhaorg.github.io" # the base hostname & protocol for your site
+app:
+  board:
+    alan: 'Alan Ark'
+    cary: 'Cary Williams'
+    lori: 'Lori Quiring'
+    mike: 'Mike Mitlehner'
+    pat: 'Pat Goodell'
+    powell: 'Powell Quiring'
+    sara: 'Sara Ark'
+    paul: 'Paul Cummings'
 
 # Build settings
 markdown: kramdown

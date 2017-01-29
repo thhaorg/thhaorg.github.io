@@ -1,0 +1,37 @@
+---
+layout: post
+members: [powell, lori, pat, mike, cary]
+---
+# Board Members Present
+{% include members.md %}
+
+# Treasurer’s Report
+$18,645.55
+
+# Old Business
+Continue to use Walley for the maintenance of our common grounds.
+
+Carey fixed the lights by replacing the existing bulbs with LEDs.
+
+12370 NW Hibbard has improved the landscaping and powerwashed the stairs.  There is still mold on the stucco.
+
+# New Business
+Powell will take a picture of the Thompson entry way and put it on the web site.  
+
+The water pressure might be high due to changes that have been made in the water system in anticipation of the new home construction.
+Homeowners can request a pressure check from the Tualitin Valley Water District (see your bill) at no charge.
+# THHA Picnic
+Reverend’s bbq at about $1300 / 70 people.
+
+Assignments:
+* Lori order flags with the flowers.
+* Mike will contact neighbors for face painting help.
+* Pat will contact neighbor for a game.
+* Pat will contact Sara about the bee traps.
+* Powell - beer and ice
+
+# Meeting Adjourned
+8:30 pm.
+
+# Next Meeting Scheduled
+Monday, ?,?

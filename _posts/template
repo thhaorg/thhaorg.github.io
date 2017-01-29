@@ -1,13 +1,9 @@
 ---
 layout: post
+members: [powell, lori, pat, sara, alan, mike, cary, paul]
 ---
 # Board Members Present
-* Powell Quiring
-* Lori Quiring
-* Pat Goodell
-* Mike Mitlehner
-* Cary Williams
-* Paul Cummings
+{% include members.md %}
 
 # Treasurer’s Report
 $17,579.03
