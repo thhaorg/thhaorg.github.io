@@ -1,0 +1,47 @@
+---
+layout: post
+members: [lori, pat, sara, mike, cary, paul]
+---
+# Board Members Present
+{% include members.md %}
+
+# Treasurer’s Report
+* Balance $21,323.57
+* 59 Dues received, 2 outstanding.  Efforts have been made to reach-out to remaining two outstanding.
+
+# Old Business
+
+Approved minutes from previous month with administrative corrections. 
+
+Bethany Neighborhood Coalition (BNC) discussed with understanding that
+BNC has withdrawn appeal because future Saltzman Road work was contemplated.
+
+More research on landscaping replacement as it was determined that current pricing is good -
+some additional follow-up would be done to see if we can better define scope of work to be done going forward.
+
+CC&R’s were tabled until we could get an update from Chris Blevins.
+Quotes for maintenance of brick entry and walls were discussed
+as Pat received some bids on tree trimming that may be prudent to act on with a hold on wall repair because of high costs.
+The next board meeting would include a possible inspection of walls and trees in need of trimming.
+
+Mannino’s play structure was approved.
+
+Goodall’s front door sidelights installation and painting was approved, subject to receipt of approval form.
+
+Spring Newsletter was discussed.
+
+It was determined that it may be helpful to continue to reach out to landlord for 12370 NW Hubbard regarding outdoor maintenance.
+
+# New Business
+
+Pat indicated she would follow-up with current homeowner on info needed to consider and possibly improve proposed improvements.
+
+Cary said he'd work on getting the broken light at the entrance repaired and also look into converting all our entrance lights to LED.
+
+# THHA Picnic
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday May 11th

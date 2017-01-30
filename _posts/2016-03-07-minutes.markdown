@@ -1,0 +1,34 @@
+---
+layout: post
+members: [powell, lori, pat, sara, sara, mike, cary, paul]
+---
+# Board Members Present
+{% include members.md %}
+
+# Treasurer’s Report
+
+* Balance $21,802.19
+* 56 Dues received, 5 outstanding.  Will send second notice.
+
+# Old Business
+
+Approved minutes from previous month.
+
+Bethany Neighborhood Coalition (BNC) - tabled for discussion waiting for Paul.
+
+More research on landscaping replacement.  
+
+# New Business
+
+Repair brick entry.  Tree roots are causing some damage.  Moss on the top of the wall caused some problems.
+Tree limbs are resting on the wall.
+Tom Payne Masonry quote $12,000.
+Mud on the side of the wall.
+Cracks to be repaired.
+Additional bids will be requested.
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday April 11.

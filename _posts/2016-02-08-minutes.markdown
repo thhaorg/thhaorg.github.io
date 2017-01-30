@@ -1,0 +1,45 @@
+---
+layout: post
+members: [powell, lori, pat, sara, mike, paul]
+---
+# Board Members Present
+{% include members.md %}
+
+Chris Blevins attended.
+
+# Treasurer’s Report
+
+* Balance $20,967.19
+* 40 dues received
+* Budget was reviewed.
+
+# Old Business
+
+Review and approve Jan ‘16 minutes - approved
+
+Question was posed: Is there a way to make it easy to post minutes to website?
+Powell will investigate new hosting service and publishing capabilities.
+
+# New Business
+
+2016 Budget approved.
+
+Wally - trim back bushes along Blevins property, trim back nandina along brick wall, shape the viburnum.
+A spotlight is out of the common area.
+Ochoa landscape to replace Wally - Mike M.
+
+12491 Welsh - approved hot tub and deck.
+
+3951 NW Loy - approved certainnteed presidential roof replacement.
+
+Approved $25 for welcome package per house.
+
+Brick wall might need maintenance.
+
+# Meeting Adjourned
+
+About 8:30 pm.
+
+# Next Meeting Scheduled
+
+Monday March 7
