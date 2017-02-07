@@ -34,8 +34,10 @@
     }
 
     .page-link {
+        padding: 4px;
         color: $text-color;
         line-height: $base-line-height;
+        background-color: $background-color;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
