@@ -8,14 +8,14 @@ members: [powell, lori, pat, paul]
 # Treasurer’s Report
 * $15,547.09 Jan 31
 * 22 checks received (not all reflected in balance)
-* Paul will send the past due notice on 2/15
+* Paul will send the past due notice on 3/15
 * Lori, Pat, Paul and Sara will need to meet at the bank in order to transfer the treasurer:
   * Paul will be treasurer
   * Lori will be back up signer
   * Pat will be back up signer
 
 # Old Business
-* Board has discussed snow removal.  Remington residents were not happy with the results of their contractor.
+* Board discussed snow removal.  Remington residents were not happy with the results of their contractor.
 Seasonal plow contract was not supported by the board.
 
 # New Business

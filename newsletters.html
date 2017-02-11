@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Minutes
-permalink: /minutes/
+title: Newsletters
+permalink: /newsletters/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Minutes</h1>
+  <h1 class="page-heading">News Letters</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.title == "Minutes" %}
+      {% if post.title == "Newsletter" %}
         <li>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
         </li>

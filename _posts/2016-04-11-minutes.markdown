@@ -2,7 +2,6 @@
 layout: post
 members: [lori, pat, sara, mike, cary, paul]
 ---
-# Board Members Present
 {% include members.md %}
 
 # Treasurer’s Report
