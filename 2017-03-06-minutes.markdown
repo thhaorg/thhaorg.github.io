@@ -1,0 +1,33 @@
+---
+layout: post
+members: [powell, lori, pat ]
+---
+{% include members.md %}
+
+# Treasurer’s Report
+* $?
+* 3 outstanding dues
+* Paul, Pat and Lori will try again to change the treasurer to Paul by meeting at US Bank this month.
+
+# Old Business
+
+* Results of application to Oregon Secretary of State’s Office re: HOA Registration is complete.
+Regsitration of incorporation with the state, number 1295822 (Pat is the incorporator).
+Fee $50.
+Thanks Pat.
+
+* Two USPS boxes have been completed.
+The other 8 USPS boxes will have their locks replaced on Wed March 8.
+Cost $60/box.
+Thanks Pat.
+
+* Tracking complaints of construction trucks driving through neighborhood.
+Not aware of any issues.
+
+# New Business
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday, April 17

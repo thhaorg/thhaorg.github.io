@@ -1,6 +1,5 @@
 ---
 layout: news
-members: [powell, lori, pat, cary, paul]
 ---
 # 2016 Spring Newsletter
 ## Thompson Highlands Homeowners Association
@@ -31,8 +30,7 @@ the project to more extensive improvements.
 **Save the Date!!!!**
  We’ve chosen the date for our Annual Thompson Highlands 
 Neighborhood Picnic — 
-Sunday, September 11, 2016
-.  We’re looking for great weather 
+Sunday, September 11, 2016.  We’re looking for great weather 
 and lots of neighbors to join us.  No theme has been picked yet so we’re open to 
 suggestions.  We need your ideas for theme and menu suggestions by our next Board 
 meeting, June 6.  We also need neighbors to volunteer to help the Board with various 
