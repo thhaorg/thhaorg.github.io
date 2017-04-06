@@ -20,6 +20,6 @@ Preferred (all board Members): board@thha.org, put "board" in the subject like: 
 
 * **[ President ]** Pat Goodell (President) rickpat68@hotmail.com
 * **[ Landscaping and Architecture ]** Mike Mitlehner mike.m.home@outlook.com
-* Carey Williams clwilli0719@mac.com
+* **[ Manager ]** Carey Williams williamslcary@gmail.com
 * **[ Treasurer ]** Paul Cummings p_cummings@comcast.net
 * **[ Secretary ]** Powell Quiring powellquiring@gmail.com
