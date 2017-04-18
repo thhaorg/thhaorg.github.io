@@ -1,0 +1,28 @@
+---
+layout: post
+members: [powell, lori, pat, mike, paul]
+---
+{% include members.md %}
+
+# Treasurer’s Report
+* Current balance $21.609.32.
+* Received the last dues paypent for 2017.
+* Changed banks from US Bank to Wells Fargo.  Pat and Paul are signers on the account.
+
+# Old Business
+* New locks have been installed on all of the post office boxes in the neighborhood.
+The lock improves the security on the postman's side of the box.
+* Considered new landscaper but will wait a month for Walley to respond to Mike's email.
+Flowers will be planted this month.
+
+# New Business
+* 12447 Welsh has plastic on the Windows.  Pat will ask the timeline for resolving the issue.
+
+# THHA Picnic
+* 9/10 suggested date for picnic this year.
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday, May 15

@@ -18,8 +18,8 @@ title: Home
 ## Email:
 Preferred (all board Members): board@thha.org, put "board" in the subject like: 'board approve my roof'
 
-* **[ President ]** Pat Goodell (President) rickpat68@hotmail.com
-* **[ Landscaping and Architecture ]** Mike Mitlehner mike.m.home@outlook.com
-* **[ Manager ]** Carey Williams williamslcary@gmail.com
-* **[ Treasurer ]** Paul Cummings p_cummings@comcast.net
-* **[ Secretary ]** Powell Quiring powellquiring@gmail.com
+* **[ President ]** Pat Goodell (President)
+* **[ Landscaping and Architecture ]** Mike Mitlehner
+* **[ Manager ]** Carey Williams
+* **[ Treasurer ]** Paul Cummings
+* **[ Secretary ]** Powell Quiring
