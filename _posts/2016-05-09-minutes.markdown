@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, sara, alan, mike, cary]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 
 * Balance 21,331.44

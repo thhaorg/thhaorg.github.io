@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, mike, paul]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 * Current balance $21.609.32.
 * Received the last dues payment for 2017.

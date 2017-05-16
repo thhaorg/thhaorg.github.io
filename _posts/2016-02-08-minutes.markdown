@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, sara, mike, paul]
 ---
-{% include members.md %}
-
 Chris Blevins attended.
 
 # Treasurer’s Report

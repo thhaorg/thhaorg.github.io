@@ -1,6 +1,7 @@
-# Board Members Present
+<h1>Board Members Present</h1>
 {% assign members = "" %}
 {% for id in page.members %}
   {% capture members %}{{ members | append: site.app.board[id] | append: "|" }}{% endcapture %}
 {% endfor %}
 {{ members | split: "|" | sort | join: ", "  }}
+<p> </p>

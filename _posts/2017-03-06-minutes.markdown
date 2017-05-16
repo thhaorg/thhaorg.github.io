@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat ]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 * $21,100.46
 * 6 outstanding dues.  Overdue notices will be sent on March 7.

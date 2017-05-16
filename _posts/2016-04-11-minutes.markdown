@@ -2,8 +2,6 @@
 layout: post
 members: [lori, pat, sara, mike, cary, paul]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 * Balance $21,323.57
 * 59 Dues received, 2 outstanding.  Efforts have been made to reach-out to remaining two outstanding.

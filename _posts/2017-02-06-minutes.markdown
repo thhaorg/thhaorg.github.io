@@ -2,9 +2,6 @@
 layout: post
 members: [powell, lori, pat, paul]
 ---
-# Board Members Present
-{% include members.md %}
-
 # Treasurer’s Report
 * $15,547.09 Jan 31
 * 22 checks received (not all reflected in balance)

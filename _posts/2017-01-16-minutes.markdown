@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, cary, paul]
 ---
-{% include members.md %}
-
 # New Business
 
 Prepared the envelopes for the annual newsletter, roster and dues statements for 2017.

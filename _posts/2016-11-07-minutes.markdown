@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, sara, mike, cary, paul]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 * $15,988 balance on November 7
 * $2,300 spent on picnic

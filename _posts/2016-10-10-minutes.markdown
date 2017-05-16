@@ -2,8 +2,6 @@
 layout: post
 members: [powell, lori, pat, mike, cary, paul]
 ---
-{% include members.md %}
-
 # Treasurer’s Report
 $15,964 for Sept 30
 
