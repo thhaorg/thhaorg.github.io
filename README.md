@@ -1,6 +1,17 @@
 # thha.org
 Site of the thha.org web site
 
+# Minutes
+
+Change the destination to the right day:
+
+    cp _posts/template 2017-11-13-minutes.markdown
+
+to: board@thha.org
+
+Please approve minutes: http://thha.org/2017-11-13-minutes
+
+
 ## Details
 https://github.com/thhaorg/thhaorg.github.io - github pages site
 thha.org@gmail.com - owner

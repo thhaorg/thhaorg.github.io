@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [powell, lori, pat, sara, alan, mike, cary, paul]
+members: [powell, lori, pat, mike, cary, paul]
 ---
 # Treasurer’s Report
 $19,417.68
@@ -49,4 +49,4 @@ Misc
 About 8:30 pm.
 
 # Next Meeting Scheduled
-Monday, 11,13
+Monday, 11/13
