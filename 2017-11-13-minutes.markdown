@@ -1,0 +1,24 @@
+---
+layout: post
+members: [powell, lori, pat, mike, cary]
+---
+# Treasurer’s Report
+$18,460.45
+
+# New Business
+
+Pat is going to summarize the approval for 12408 NW Welsh Dr in email.  It will include the location of a house near by that we can visually inspect.
+
+
+Possible requirements to add to the CCRs:
+
+* Can not exceeed 8 inches as measured from the roof surface from the top of the PV panel.
+* Home ownership - Homeowner must own the solar installation.  Leasing is explicitly prohibited.
+* Solar devices must be visually integrated with the architecture of the home with respect to style, location, size and color and installation of such device should eliminate or minimize visibility from the street.
+* Meet Washington County requirements in the "Oregon Solar Installation Specialty Code"
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday, 1/15
