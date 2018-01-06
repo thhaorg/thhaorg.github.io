@@ -22,9 +22,12 @@ http://thhaorg.github.io/ - see it
 enforce https setting in github settings
 
 # 7/17
-Changed the domain name management to namecheap
-* Expires in July 2017
-* Email forwarding
+Changed the domain name management to namecheap, https://ap.www.namecheap.com/
+
+thha.org
+* Expires July 21 2018
+* my gmail account is the account owner
+* Email forwarding: for board: is me and the rest of the people on the board
 
 Name Servers
 DNS1.REGISTRAR-SERVERS.COM
