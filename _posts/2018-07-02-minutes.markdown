@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, cary, paul]
+members: [powell, lori, pat, mike, cary]
 ---
 # Guests
 Sara Ark, Alan Ark
@@ -8,13 +8,13 @@ Sara Ark, Alan Ark
 # Old Business
 Library box.
 Pat reached out to the Rodman's, who suggested it.
-Pat reached out to the Creekview hha and has not heard back.
+Pat reached out to the Creekview HOA and has not heard back.
 
 Straighten street sign at Thompson/Hibbard.
 Pat called Washington county, and got it straightened out.
 
 12370 NW Hibbard house appears to be in the process of painting.
-Pat called the property manager, who has not yet returned the email.
+Pat emailed the property manager, who has not yet returned the email.
 
 # New Business
 
@@ -51,10 +51,10 @@ Assignments:
 * Mike face painter
 * Carey three cases of Corona
 * Pat and Lori - Sangria 
-* Path chile fixings: avacodo, onions, cheese, sour creme
+* Pat chile fixings: avacodo, onions, cheese, sour cream
 * Paul Wine
 * Lori and Pat will discus lemonade and water
-* Grill 1 grill for hot dogs, and viggie burgers if the taco truck has no vegetarian option.
+* Grill 1 grill for hot dogs, and veggie burgers if the taco truck has no vegetarian option.
 * Cary will pick up two pinatas
 * Lori will get pinata candy
 * Lori table and chairs
@@ -68,4 +68,4 @@ Games:
 About 8:30 pm.
 
 # Next Meeting Scheduled
-Monday, 8/21
+Monday, 8/20
