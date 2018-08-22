@@ -1,7 +1,10 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, cary]
+members: [powell, lori, pat, cary]
 ---
+# Treasurer’s Report
+$24,419.56
+
 # Old Business
 * Library box update.  Tabled until October.
 * 12370 NW Hibbard house paint job does not meet standards of neighborhood.  Pat sent email to the management company asking for clarification two months ago.
@@ -22,7 +25,7 @@ Theme: Fiesta.
 * Table/chair - Lori
 * Decorations - Lori
 * Corona, 3 cases - Carey
-* Wine, 6 red, 6 white, Sangria
+* Wine, 6 red, 6 white, Sangria - Carey
 * Lemonade mix - Lori
 * Candy - Lori
 * Pinata, qty 2, to age 0..8 , 8..12, Cary
@@ -40,4 +43,4 @@ Theme: Fiesta.
 About 8:30 pm.
 
 # Next Meeting Scheduled
-Monday, 8/22
+Monday, 10/22
