@@ -18,6 +18,8 @@ app:
     powell: 'Powell Quiring'
     sara: 'Sara Ark'
     paul: 'Paul Cummings'
+    heather: 'Heather Pool'
+    dana: 'Dana Rodman'
 
 # Build settings
 markdown: kramdown
