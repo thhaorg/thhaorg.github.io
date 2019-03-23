@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, cary, paul]
+members: [powell, lori, pat, mike, cary, paul, heather]
 ---
 # Treasurer’s Report
 $17,579.03
@@ -8,6 +8,8 @@ $17,579.03
 # Old Business
 
 # New Business
+* Powell updated the thha.org website with new configuration information to match the DNS renew that happened recently.
+* Powell needs to verify that https:// access to the site is configured.
 
 # THHA Picnic
 

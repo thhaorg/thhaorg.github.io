@@ -21,6 +21,17 @@ http://thhaorg.github.io/ - see it
 ## TODO:
 enforce https setting in github settings
 
+# 2019-03-23
+Got a message from github that the DNS was not set up correctly.
+Namecheap DNS for thha.org had the following:
+- A Record @ 92.30.252.153
+- A Record @ 92.30.252.154
+- CNAME Record www thhaorg.github.io
+
+See https://help.github.com/en/articles/troubleshooting-custom-domains#https-errors
+Changed the A record to, and deleted the other one
+- A Record @ 185.199.108.153
+
 # 7/17
 Changed the domain name management to namecheap, https://ap.www.namecheap.com/
 
