@@ -1,0 +1,20 @@
+---
+layout: post
+members: [powell, lori, pat, mike, cary, paul, heather]
+---
+# Treasurer’s Report
+$17,579.03
+
+# Old Business
+
+# New Business
+* Powell maintained the website, updated the dns hosting service with github ip address
+* Powell maintained the website, added htpps support in github
+
+# THHA Picnic
+
+# Meeting Adjourned
+About 8:30 pm.
+
+# Next Meeting Scheduled
+Monday, ?,?

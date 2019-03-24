@@ -1,9 +1,12 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, heather, dana, cary]
+members: [powell, lori, pat, mike, cary]
+guests: [heather, dana]
 ---
 # Guests
-Ed Merrick- Bauer Creek Estates, joined us to discuss Little Free Library.
+- Danna Rodman
+- Heather Pool
+- Ed Merrick - Bauer Creek Estates, joined us to discuss Little Free Library.
 
 # Treasurer’s Report
 $27,397.14
@@ -12,7 +15,9 @@ $27,397.14
 * $650/yr per home
 * Keep 5x more then thha on reserve
 * Most $ spent on grounds
-* Lawrence did the brick work in their neighborhood
+* Laurence Adams, Master Mason did the brick work in their neighborhood. 
+  * Phone Number: (503) 697-6559 
+  * Address: 1724 Oak St Lake Oswego, Lake Oswego, OR 97034
 
 # Little Free Library
 * By the light post at intersection of NW Creekview Dr, and Welsh.  10ft from intersection., north east of the intersection.
@@ -21,3 +26,6 @@ Between the light and the stop sign.
 * Ed, send us the legal information for acceptance.
 * The library will be accessible fron the sidewalk.
 * June installation
+
+# Next Meeting Scheduled
+Monday, March 11
