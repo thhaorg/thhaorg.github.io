@@ -1,20 +1,35 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, cary, paul, heather]
+members: [powell, lori, pat, mike, paul, heather]
 ---
 # Treasurer’s Report
-$17,579.03
+$27,432.69
 
 # Old Business
+- Ed Merrick of Bauer Creek and the our board have approved the little library agreement.  Pat will sign the agreement.
+- Powell will post the final agreement to the web site.  Pat will send Powell the agreement file.
+- Ed Petrosian requested the approval of Sherman Williams 7080, 12370 Hibbard.
+Lori will get a chip and compare the chip to the current color of the house and report to the board.
 
 # New Business
-* Powell maintained the website, updated the dns hosting service with github ip address
-* Powell maintained the website, added htpps support in github
+- Four outstanding dues.  Paul will send a reminder via US Post.
+- Powell maintained the website - updated the dns hosting service with the github ip address
+- Powell maintained the website - added https support in github
+- New board member - Heather Pool
+- Heather volunteered for the position, "Welcome new neighbors"
+- Heather will welcome new neighboars at 12512 NW Welsh
+- Powell will scan the CC&R to website
+- Mike will inspect the flowers at the entrance and determine if they are sufficient
+- Lori will obtain bids for the brick entrance.  It requires repair and wash. Lori has the contract referred from Bauer Creek
 
 # THHA Picnic
+- Sep 8
+- Lower Hibbard, 12532 Hibbard
+- Theme - Taco Truck
+- Need an assigned water owner
 
 # Meeting Adjourned
 About 8:30 pm.
 
 # Next Meeting Scheduled
-Monday, ?,?
+Tuesday, May 21
