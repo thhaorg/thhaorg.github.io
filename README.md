@@ -5,21 +5,25 @@ Site of the thha.org web site
 
 Change the destination to the right day:
 
-    cp _posts/template 2017-11-13-minutes.markdown
+    cp _posts/template _posts/2018-04-08-minutes.markdown
 
+make watch - this will create the site for testing, display the minutes for example
+
+Send this email:
+
+```
 to: board@thha.org
 
-Please approve minutes: http://thha.org/2017-11-13-minutes
+Please approve minutes: http://thha.org/2019/04/08/minutes.html
 
+Once approved remove the hidden: true line
+```
 
 ## Details
 https://github.com/thhaorg/thhaorg.github.io - github pages site
 thha.org@gmail.com - owner
 http://thhaorg.github.io/ - see it
 
-
-## TODO:
-enforce https setting in github settings
 
 # 2019-03-23
 Got a message from github that the DNS was not set up correctly.

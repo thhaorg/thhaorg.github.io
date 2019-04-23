@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Board Member
+hidden: true
 permalink: /resources/boardmember
 ---
 # Board Member Invitation

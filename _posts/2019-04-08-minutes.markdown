@@ -1,6 +1,7 @@
 ---
 layout: post
 members: [powell, lori, pat, mike, paul, heather]
+hidden: true
 ---
 # Treasurer’s Report
 $27,432.69
