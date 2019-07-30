@@ -1,40 +1,56 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, cary, paul, heather]
+members: [powell, lori, pat, mike, paul, heather]
 hidden: true
 ---
 # Visitor
 Sara Ark - presented the picnic flyer and one was chosen.
 
 # Treasurer’s Report
-- Account balance: $25,217.41
-- One households has not paid dues. Pat will send another late notice.
+- Account balance: $25,219.78
+- All households dues have been paid
 
 # Old Business
-- Little library - Powell will post the agreement on the web site
+- Little library - Pat will email Powell will post the agreement on the web site
 - Wall repair and power wash - $6,800
 
 # New Business
 * Powell updated the thha.org website with new configuration information to match the DNS renew that happened recently.
-* Powell needs to verify that https:// access to the site is configured.
-* 12370 NW Hibbard - Powell will send out first pass of architectural questions for 12370 NW Hibbard
-* 3701 NW 124th Pl - More pavement for the driveway - approved
-* 12459 NW Hibbard - tree removal. Pat will ask about replacement.
-* Hand deliver newsletter and picnic invitations
-  - Pat - Hibbard and 124th
-  - Cary - Lower Loy
-  - Powell - Upper Loy
-  - Heather - Welsh, east of Hibbard
-  - Paul - Welsh, west of Hibbard
-  - Mike - 123rd 
-* Welcome gifts for new neighbor.  $25 budget
+* DNS renewal charges - $15.16
+* Mulch shared space, yes - Mike
+* Wall power washing, week of 8/5
+* Welcome gifts for new neighbor.  $25 budget, 8/9
   - 12512 Welsh - Heather will deliver
 
 # THHA Picnic
-- Pie competition, a few of the board members volunteered to bring a pie - insuring success.
+- Plan for 90 people
+- Set up at 2
+- Start at 4
+- table, chairs, decorations - Lori
+- 3 water coolers - Pat
+- Wine, beer - 6 white, 18 red
+- lemonaid country time lemonade - lori
+- Printed picnic signs - Lori
+- Vegan cheese - Pat
+- Water monitor - Heather
+- Face painter - Mike
+- Pinata - Lori
+- Photo booth stuff, take your own pictures - Pat
+- Bubbles - Lori
+- Sign in table - Lori
+- Mohitos - Lori
+- Nametags - Heather
+- Microphone, speakers - Paul
+- Trivia - Lori
+- Garbage cans - Pat
+- Police checkout - Mike
+- Email flyers, 8/1 - Pat
+- Fold flyers - Pat
+- Mail flyers 8/22 - Lori
+- Shade canopy - Paul, Pat ask neighbors
 
 # Meeting Adjourned
 About 8:30 pm.
 
 # Next Meeting Scheduled
-Monday, 7/29
+Thursday, 8/22 only if needed
