@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 ## Useful links:
-* [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
+* [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
 
 ## Postal address
 
@@ -18,8 +18,8 @@ title: Home
 ## Email:
 Preferred (all board Members): board@thha.org, put "board" in the subject like: 'board approve my roof'
 
-* **[ President ]** Pat Goodell (President)
-* **[ Landscaping and Architecture ]** Mike Mitlehner
-* **[ Manager ]** Cary Williams
-* **[ Treasurer ]** Paul Cummings
-* **[ Secretary ]** Powell Quiring
+* **President** Pat Goodell
+* **Landscaping and Architecture** Mike Mitlehner
+* **Treasurer** Paul Cummings
+* **Communications** Powell Quiring
+* **Welcome new neighbors** Heather Pool
