@@ -13,5 +13,7 @@ Please submit your plans using the Request For Approval to the board PRIOR to un
 Return the completed form to one of the Board Members or email to 
 
 ## Miscellaneous
-[Little Free Library Agreement](little_free_library_agreement.pdf) between THHA and Bauer Creek Home Owners Association.
+- [Little Free Library Agreement](little_free_library_agreement.pdf) between THHA and Bauer Creek Home Owners Association.
+- [Become a Board Member](boardmember.md) the neighborhood appreciates your help!
+
 <{{ site.email }}">
