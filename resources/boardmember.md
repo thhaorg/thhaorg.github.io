@@ -3,7 +3,7 @@ layout: page
 hidden: true
 permalink: /resources/boardmember
 ---
-# Board Member Invitation
+## Board Member Invitation
 You wanted to know what's involved with being on the THHA Board of Directors.
 There are a couple of ways to be involved.
 You can just be on the Board, come to meetings, offer your opinions on issues and vote when a vote is applicable.
