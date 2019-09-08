@@ -1,6 +1,7 @@
 ---
 layout: default
-exclude: true
+hidden: true
+permalink: /jointheboard/
 ---
 ## Board Member Invitation
 You wanted to know what's involved with being on the THHA Board of Directors.

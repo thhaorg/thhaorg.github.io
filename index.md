@@ -5,6 +5,7 @@ title: Home
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
 * [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
+* [Become a board member](jointheboard)
 
 ## Postal address
 
