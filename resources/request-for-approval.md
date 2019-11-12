@@ -1,3 +1,8 @@
+---
+layout: default
+hidden: true
+permalink: /resources/request-for-approval
+---
 # Thompson Highlands Homeowners Association
 
 ## Request For Approval of Improvement
