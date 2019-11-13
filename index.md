@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+## Next Board Meeting
+
+1/13/2020 7:03pm
+
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
 * [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
