@@ -16,4 +16,6 @@ Return the completed form to one of the Board Members or email to
 - [Little Free Library Agreement](little_free_library_agreement.pdf) between THHA and Bauer Creek Home Owners Association.
 - [Become a Board Member](boardmember.md) the neighborhood appreciates your help!
 
+[r](RequestForApproval.pdf)
+
 <{{ site.email }}">
