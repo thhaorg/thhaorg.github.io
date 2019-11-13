@@ -1,7 +1,6 @@
 ---
 layout: post
 members: [powell, lori, pat, mike, cary, paul, heather]
-hidden: true
 ---
 # Visitor
 Sara Ark - presented the picnic flyer and one was chosen.
