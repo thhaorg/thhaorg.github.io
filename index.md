@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-
-1/13/2020 7:03pm
+- Day: 1/13/2020 7:03pm
+- Time: 7:03pm
+- Location: 3840 NW Loy Ct (home of Quiring's)
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
