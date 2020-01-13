@@ -1,7 +1,6 @@
 ---
 layout: post
 members: [powell, lori, pat, heather]
-hidden: true
 ---
 # Treasurer's Report
 - Account balance: $15,944.13

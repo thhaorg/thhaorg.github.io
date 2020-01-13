@@ -1,7 +1,6 @@
 ---
 layout: post
 members: [powell, lori, pat, heather, mike]
-hidden: true
 ---
 # Guest
 - Rosemary Casamassa - 12512 Welsh
