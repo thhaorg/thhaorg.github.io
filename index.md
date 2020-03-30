@@ -3,12 +3,14 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Day: 1/13/2020
+- Day: 3/30/2020
 - Time: 7:03pm
-- Location: 3840 NW Loy Ct (home of Quiring's)
+- Location: Zoom https://us04web.zoom.us/j/3516774555
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
+* [Spring Newsleter](2020/03/28/newsletter.html)
+* [Winter Newsleter](2019/01/14/newsletter.html)
 * [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
 * [Become a board member](jointheboard)
 
