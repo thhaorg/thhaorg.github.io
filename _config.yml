@@ -20,6 +20,7 @@ app:
     paul: 'Paul Cummings'
     heather: 'Heather Pool'
     dana: 'Dana Rodman'
+    rose: 'Rosemary Casamassa'
 
 # Build settings
 markdown: kramdown
