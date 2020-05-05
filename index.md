@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Day: 5/4/2020
-- Time: 7:03pm
+- Day: 6/1/2020
+- Time: 7:01pm
 - Location: [Zoom](https://us04web.zoom.us/j/3516774555)
 
 ## Useful links:
