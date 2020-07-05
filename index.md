@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Day: 6/1/2020
+- Day: 7/6/2020
 - Time: 7:01pm
-- Location: [Zoom](https://us04web.zoom.us/j/3516774555)
+- Part 1: [Zoom](https://us04web.zoom.us/j/71436747081?pwd=R1c4alJxR0F2SXh4STBNUUhqaWN0UT09) 1zWwkx
+- Part 2: [Zoom](https://us04web.zoom.us/j/79445047565?pwd=Zi9pbnJ0amF3UkYzR3RsQUphdlJldz09) 9zH9Hz
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}

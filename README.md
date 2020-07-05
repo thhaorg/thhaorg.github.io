@@ -67,5 +67,5 @@ Name Server: NS2.DOTSTER.COM
 ## testing locally
 
     cd thha/thhaorg.github.io
-    docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll
+    docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
     open http://localhost:4000
