@@ -5,8 +5,8 @@ title: Home
 ## Next Board Meeting
 - Day: 7/6/2020
 - Time: 7:01pm
-- Part 1: [Zoom](https://us04web.zoom.us/j/71436747081?pwd=R1c4alJxR0F2SXh4STBNUUhqaWN0UT09) 1zWwkx
-- Part 2: [Zoom](https://us04web.zoom.us/j/79445047565?pwd=Zi9pbnJ0amF3UkYzR3RsQUphdlJldz09) 9zH9Hz
+- Part 1: [Zoom](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09) 1JrC9S
+- Part 2: [Zoom](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09) 1JrC9S
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
