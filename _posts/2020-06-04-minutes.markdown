@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout: post
 members: [powell, lori, pat, mike, paul, heather, rose]
 ---

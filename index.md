@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Day: 7/6/2020
-- Time: 7:01pm
-- Part 1: [Zoom](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09) 1JrC9S
-- Part 2: [Zoom](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09) 1JrC9S
+- Day: 9/14/2020
+- Time: 7:03pm
+- Part 1: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
+- Part 2: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
