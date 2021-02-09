@@ -10,7 +10,8 @@ permalink: /resources/
 
 [Request for approval](RequestForApproval001.pdf) The Request For Approval form must be submitted prior to making improvements to your home or property.
 Please submit your plans using the Request For Approval to the board PRIOR to undertaking the work.
-Return the completed form to one of the Board Members or email to 
+Return the completed form to one of the Board Members or email to board@thha.org.
+The board will review the form at the regularly scheduled board meeting, typically first Monday of the month.
 
 ## Miscellaneous
 - [Little Free Library Agreement](little_free_library_agreement.pdf) between THHA and Bauer Creek Home Owners Association.
