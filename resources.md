@@ -8,16 +8,12 @@ permalink: /resources/
 
 [Design Guidelines](ThompsonHighlandsDesignGuidelines.pdf) The design guidelines insure that modifications to landscape or structures in Thompson Highlands maintain the consistency of the neighborhood and are designed to improve the livability for all owners. 
 
-[Request for approval](RequestForApproval001.pdf) The Request For Approval form must be submitted prior to making improvements to your home or property.
-Please submit your plans using the Request For Approval to the board PRIOR to undertaking the work.
+The [Request For Approval](RequestForApproval001.pdf) must be submitted PRIOR to making improvements to your home or property.
 Return the completed form to one of the Board Members or email to board@thha.org.
-The board will review the form at the regularly scheduled board meeting, typically first Monday of the month.
+The board will review the form at the regularly scheduled board meeting, typically the first Monday of the month.
 
 ## Miscellaneous
 - [Little Free Library Agreement](little_free_library_agreement.pdf) between THHA and Bauer Creek Home Owners Association.
 - [Become a Board Member](boardmember.md) the neighborhood appreciates your help!
 - [2020 Dues Statement](dues_statement.pdf)
 
-[r](RequestForApproval.pdf)
-
-<{{ site.email }}">

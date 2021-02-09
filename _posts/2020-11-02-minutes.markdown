@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [powell, lori, pat, mike, paul, heather, rose]
+members: [powell, lori, pat, paul, rose]
 hidden: true
 ---
 # Treasurer’s Report
@@ -12,7 +12,7 @@ hidden: true
 There a transformer box behind 3876 NW Loy Ct. 
 
 Tool to losen bolts and change direction of lights.  Location:
-- trasformer box
+- transformer box
 
 Magnet control for brightness, Location:
 - transformer box
@@ -25,7 +25,7 @@ Magnet control for brightness, Location:
 - Lori and Powell will do the mailings this year
 
 Approval policy:
-- Home and property improvement approval text - Review at the regularly scheduled board meeting, typically first Monday of the month - Powell.  See CC&Rs
+- Home and property improvement approval text on thha.org should be improved.  Something like: Review at the regularly scheduled board meeting, typically first Monday of the month - Powell
 
 # THHA Picnic
 
