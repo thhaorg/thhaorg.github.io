@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Day: 03/08/2021
+- Day: 04/12, 7:02
 - Time: 7:01pm
 - Part 1: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
 - Part 2: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
