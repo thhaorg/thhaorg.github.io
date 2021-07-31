@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thhaorg.github.io" # the base hostname & protocol for your site
 app:
   board:
+    hans: 'Hans George'
     alan: 'Alan Ark'
     cary: 'Cary Williams'
     lori: 'Lori Quiring'
