@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [hans, mike, rosemary, pat, heather]
+members: [hans, mike, rose, pat, heather]
 ---
 # Treasurer’s Report
 - $16,618.91

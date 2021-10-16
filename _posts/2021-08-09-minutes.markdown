@@ -1,6 +1,6 @@
 ---
 layout: post
-members: [mike, rosemary, pat, paul]
+members: [mike, rose, pat, paul]
 ---
 # Treasurer’s Report
 - $18,530.94
