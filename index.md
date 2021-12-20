@@ -3,10 +3,8 @@ layout: default
 title: Home
 ---
 ## Next Board Meeting
-- Monday, Oct 11
-- Time: 7:01pm
-- Part 1: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
-- Part 2: [Zoom passcode 1JrC9S](https://us04web.zoom.us/j/3516774555?pwd=ZHU4TWd5MTdtZlgvcGhQRXE2MVRYZz09)
+- Monday Jan 12, 2022
+- Time: 7:00pm
 
 ## Useful links:
 * [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}

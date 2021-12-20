@@ -1,0 +1,22 @@
+---
+layout: post
+members: [hans, mike, rosemary, pat, heather, paul]
+---
+# Treasurer’s Report
+- $16,451.37
+
+# Old Business
+- NTR
+
+# New Business
+- Dues will be printed in Jan, fallback plan to handwrite names and addresses if mail-merge is no longer functional.
+- Website redesign: the board reviwed the website redesign requirements.  A few board members will review the requirements with Veronica G over the holidays.  The plan will be to build out the website incrementally.
+- Trakul request for paint color is approved.
+- Cross request for landscaping improvements is approved.
+
+# Meeting Adjourned
+About 9:00pm
+
+# Next Meeting Scheduled
+Monday Jan 12, 2022 7:00 PM
+
